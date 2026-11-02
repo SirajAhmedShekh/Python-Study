@@ -9,7 +9,7 @@
 #     else:
 #        Statement N
 
-# age =12
+# age =27
 
 # if(age >= 18):
 #     print("can vote")
