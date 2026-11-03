@@ -28,6 +28,38 @@
 # else:
 #     print("light is broken")    
 
+## EXAMPLE.
+
+# 1. Grade student based on marks.
+
+# marks = int(input("enter your marks: "))
+
+# if(marks >= 90):
+#     grade = "A"
+# elif(marks >= 80 and marks < 90):
+#     grade = "B"
+# elif(marks >= 70 and marks < 80):
+#      grade = "C"
+# elif(marks >= 50 and marks < 70):
+#     grade = "D"
+# else:
+#      grade = "Fail"
+     
+# print("Grade of tha student => ", grade)
+
+## NESTING CONDITION EXAMPLE
+
+# 1. man drive based on age.
+ 
+# age = 80
+
+# if(age >= 18):
+#     if(age >= 60):     #----->  nested condition for age limit
+#         print("can not drive")
+#     else:
+#         print("can drive")
+# else:
+#     print("can not drive")
 
 
 
