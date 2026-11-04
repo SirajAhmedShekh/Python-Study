@@ -28,7 +28,7 @@
 # print("age:", age)
 # print("marks:", marks)
 
-# # mini program practice
+# # mini project practice
 
 # Q.1 Write a program to input 2 numbers & print their sum.
 
