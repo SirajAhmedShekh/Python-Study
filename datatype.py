@@ -30,9 +30,9 @@
 # a = None
 # print("a",type(a))
 
-a = 10
-b = 5
-sum = a + b
-sum2 = a - b
-print(sum)
-print(sum2)
+# a = 10
+# b = 5
+# sum = a + b
+# sum2 = a - b
+# print(sum)
+# print(sum2)

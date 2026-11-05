@@ -62,6 +62,6 @@
 #     print("can not drive")
 
 ## MINI PROJECT PRACTICE
-print("start practice")
+
 
 
