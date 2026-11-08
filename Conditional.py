@@ -63,5 +63,53 @@
 
 ## MINI PROJECT PRACTICE
 
+# Q 1. WAP to check if a number by the user is odd or even.
+
+# num = int(input("enter your number: "))
+
+# if(num % 2 == 0):
+#     number = "this is even number"
+# else:
+#     number = "this is odd number"
+    
+# print(number)
+
+# Q 2. WAP find the greatest of 3 numbers entered by user.
+
+# n1 = int(input("enter first number: "))
+# n2 = int(input("enter second number: "))
+# n3 = int(input("enter third number: "))
+
+# if(n1 > n2 and n1 > n3):
+#     print("n1 is greater: ",n1)
+# elif(n2 > n3):
+#     print( "n2 is greater ",n2)
+# else:
+#     print("n3 is greater: ",n3)
+
+# Q 3. WAP find the greatest of 4 numbers entered by user.
+
+# a = int(input("enter first number: "))
+# b = int(input("enter second number: "))
+# c = int(input("enter third number: "))
+# d = int(input("enter forth number: "))
+
+# if(a >= b and a >= c and a >= d):
+#     print("a is greater: ",a)
+# elif(b >= c and b >= d):
+#     print("b is greater: ",b)
+# elif(c >= d):
+#     print("c is greater: ",c)
+# else:
+#     print("d is greater: ",d)
+
+# Q 4. WAP to check if a number is a multiple of 7 or not.
+
+# a = int(input("enter your number: "))
+
+# if(a % 7 == 0):
+#     print("number is a multiple of 7: ",a)
+# else:
+#     print("number is not a multiple of 7: ",a)
 
 
