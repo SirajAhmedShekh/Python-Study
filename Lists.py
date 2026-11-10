@@ -88,7 +88,7 @@ tup = (50, 20, 80, 70, 30)
 
 # Q 1. WAP to ask the user to enter names of thier 3 favoirite movies & store them in a list.
 
-movies = []
+# movies = []
 
 # type - 1
 # m1 = input("enter first movie name: ")
@@ -109,11 +109,15 @@ movies = []
 
 
 # type - 3
-movies.append(input("enter first movie name: "))
-movies.append(input("enter second movie name: "))
-movies.append(input("enter third movie name: "))
+# movies.append(input("enter first movie name: "))
+# movies.append(input("enter second movie name: "))
+# movies.append(input("enter third movie name: "))
+# movies.append(input("enter forth movie name: "))
+# movies.append(input("enter five movie name: "))
 
-print(movies)
+# print(movies)
+
+
 
 
 
