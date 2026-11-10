@@ -117,7 +117,16 @@ tup = (50, 20, 80, 70, 30)
 
 # print(movies)
 
+# Q 2. WAP to palindrome.
 
-
+list1 = [1, 2, 4]
+copy_list = list1.copy()
+copy_list.reverse()
+# print(list1)
+# print(copy_list)
+if(list1 == copy_list):
+    print("is palindrome")
+else:
+    print("is not palindrome")
 
 
